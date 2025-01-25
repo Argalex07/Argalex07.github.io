@@ -1,0 +1,156 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: century gothic;
+    text-align: center;
+}
+
+.enlace1 {
+    background-color: #48e;
+    color: #fff;
+    width: calc(80% - 20px);
+    margin: 0px;
+    margin-top: 10px;
+    border: none;
+    text-decoration: none;
+    padding: 10px 0px 10px;
+    display: inline-block;
+}
+
+.enlace2 {
+    background-color: #48e;
+    color: #fff;
+    width: calc(80% - 20px);
+    margin: 0px;
+    margin-top: 10px;
+    border: none;
+    text-decoration: none;
+    padding: 10px 0px 10px;
+    display: inline-block;
+}
+
+form {
+    padding: 50px 20px;
+    background-color: #46444469;
+    margin: calc(25% + 100px);
+    margin-top: 70px;
+    padding-top: 28px;
+    margin-bottom: 30px
+}
+
+.body1 {
+    background-image: url("fondo2.jpg");
+    background-repeat: repeat;
+    background-image: center;
+    width: 1500px;
+    height: 500px;
+    background-size: inherit;
+}
+
+.body2 {
+    background-image: url("fondo.png");
+    background-repeat: repeat;
+    background-image: center;
+    text-align: center;
+    padding: 14px;
+    color: rgb(255, 255, 255);
+}
+
+.body3 {
+    background-image: url("fondo.png");
+    background-repeat: repeat;
+    background-image: center;
+    text-align: center;
+    padding: 14px;
+    color: rgb(0, 0, 0);
+}
+
+
+.body4 {
+    background-image: url("inf.jpeg");
+    background-repeat: repeat;
+    background-image: center;
+    text-align: center;
+    padding: 14px;
+    color: rgb(255, 255, 255);
+}
+h1 {
+    text-align: center;
+    padding: 14px;
+    color: hsl(0, 0%, 100%);
+    font-size: 40px;
+}
+
+h2 {
+    text-align: center;
+    padding: 20px;
+    color: hsl(0, 0%, 97%);
+    font-size: 50px;
+}
+
+input {
+    width: calc(100% - 20px);
+    padding: 9px;
+    margin: auto;
+    margin-top: 12px;
+    font-size: 16px;
+}
+
+input[type='submit'] {
+    background-color: #48e;
+    color: #fff;
+    width: calc(80% - 20px);
+    margin: 0 10%;
+    margin-top: 22px;
+    border: none;
+}
+
+.ok {
+    text-align: center;
+    width: 100%;
+    padding: 12px;
+    background-color: #1e6;
+    color: #fff
+}
+
+.bad {
+    text-align: center;
+    width: 100%;
+    padding: 12px;
+    background-color: #a22;
+    color: #fff;
+}
+
+.cerrarsesion {
+    background-color: #48e;
+    color: #fff;
+    width: calc(10% - 10px);
+    margin: 0px;
+    margin-top: 10px;
+    border: none;
+    text-decoration: none;
+    padding: 10px 0px 10px;
+    display: block;
+    text-align: center;
+    float: inline-end;
+}
+
+.container-table {
+    background-color: rgb(220, 230, 247);
+    color: rgb(255, 255, 255);
+    padding: 20px 20px;
+}
+
+.Table_title {
+    background-color: rgb(178, 202, 243);
+    color: rgb(12, 16, 226);
+    padding: 14px;
+    font-size: 16px;
+    padding: 20px 20px;
+}
+
+.table_item {
+    background-color: rgb(246, 248, 250);
+    color: rgb(10, 10, 10);
+    padding: 10px 10px;
+}
